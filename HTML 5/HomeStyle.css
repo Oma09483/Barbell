@@ -1,0 +1,83 @@
+ body {
+      margin: 0%;
+    }
+    .header {
+      background-color: #dbd7d1;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-right: 2%;
+    }
+    .logo {
+      width: 200px;
+    }
+    .header-link a {
+      color: #11120f;
+      padding: 4px 13px;
+      text-decoration: none;
+      border-radius: 15px;
+
+    }
+    .header-link a:hover {
+      background-color: #e4e1dc;
+      
+    }
+    .header-link button {
+      background-color: #b9b2a6;
+      border: none;
+      padding: 4px 13px;
+      border-radius: 15px;
+    }
+    .header-link button:hover {
+      background-color: #c2bbb1;
+     
+    }
+    .landing-page-heading {
+      font-size: 48px;
+      text-align: center;
+      margin-top: 50px;
+    }
+    .landing-page-subheading {
+      font-size: 24px;
+      text-align: center;
+      margin-top: 20px;
+    }
+    .landing-page-description {
+      font-size: 16px;
+      text-align: center;
+      margin-top: 20px;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .landing-page-button {
+      display: block;
+      margin: 30px auto;
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #b9b2a6;
+      border: none;
+      border-radius: 15px;
+      cursor: pointer;
+    }
+    .landing-page-button:hover {
+      background-color: #c2bbb1;
+    }
+    .center {
+      text-align: center;
+    }
+    .hr {
+    color: #11120f;}
+    .nav a{
+        text-decoration: none;
+        color: #11120f;
+        margin: 0 10px;
+    }
+    .nav a:hover {
+        text-decoration: none;
+        color: #1e201b;
+    }
+    .LargerText h4 {
+        font-size: 20px;
+    }
+    
